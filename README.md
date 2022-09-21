@@ -1,12 +1,15 @@
 # 공연 조회 JAVA Android Application  (뭐보러갈래) Overview
-https://docs.google.com/presentation/d/1WwfQ5CU3-UyYyVl5f6w5fggurQ5EiNB2GDk96inoQos/edit?usp=sharing
+
 - 공연 정보와 내 지역의 공연 정보를 확인 할 수 있습니다.
 - 사용자 기반 협업 필터링을 활용한 추천 인공지능으로 사용자들의 활동 패턴을 확인하고 좋아 할 것 같은 공연을 추천하는 기능을 포함하고 있습니다.
 - 공연 티켓 이미지를 업로드하면 이미지의 글자를 판독하여 해당 공연과 일치하는 공연 티켓인지 확인하는 인공지능 기능을 포함하고 있습니다.
 - 사용자들끼리 소통하여 다른 유저들과 함께 공연을 볼 수 있게 하자는 취지의 파티 찾기 기능이 포함되어 있습니다
 
-
-*API키, AWS액세스키 노출 문제로 Config 파일은 깃허브에 업로드 되어있지 않음.
+https://docs.google.com/presentation/d/1WwfQ5CU3-UyYyVl5f6w5fggurQ5EiNB2GDk96inoQos/edit?usp=sharing
+- 공연 정보와 내 지역의 공연 정보를 확인 할 수 있습니다.
+- 사용자 기반 협업 필터링을 활용한 추천 인공지능으로 사용자들의 활동 패턴을 확인하고 좋아 할 것 같은 공연을 추천하는 기능을 포함하고 있습니다.
+- 공연 티켓 이미지를 업로드하면 이미지의 글자를 판독하여 해당 공연과 일치하는 공연 티켓인지 확인하는 인공지능 기능을 포함하고 있습니다.
+- 사용자들끼리 소통하여 다른 유저들과 함께 공연을 볼 수 있게 하자는 취지의 파티 찾기 기능이 포함되어 있습니다
 
 # Open API
 - 공연전시KOPIS
@@ -50,3 +53,11 @@ https://docs.google.com/presentation/d/1WwfQ5CU3-UyYyVl5f6w5fggurQ5EiNB2GDk96ino
 # 실제 구동 화면
 
 <img src="https://user-images.githubusercontent.com/105832386/190554589-34740111-84ba-43e7-935c-3c49ea36772c.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/105832386/190554594-c91215f0-8358-47a7-95b3-24e7b301a9f7.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/105832386/190554596-680e9d29-4e1f-452f-bf71-5a7b6dd50c5a.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/105832386/190554597-54a118a8-972b-4354-b06a-fbe98e127b4b.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/105832386/190554599-60a95d1b-faad-4eaf-bc27-5817436f9c4f.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/105832386/190554603-992aac1c-b601-48c5-ab1e-bd883be6ec81.png" width="300" height="300">
+
+
+- 개발기술서 Google Slides 주소: https://docs.google.com/presentation/d/1BJ2cNw5j3P4FOtlDy8OxZ3UoWne1K10SR-14FXz_giI/edit?usp=sharing
+- 화면 UI 기획서 Oven 주소: https://ovenapp.io/view/mPoCI4eiLuu7fKlOjkeaHgkUKuUto8Qr/DRB62
+- 테이블정의서 ErdCloud 주소: https://www.erdcloud.com/d/5v5C9THyddnhXEpKg
+- API 명세서 Postman 주소: https://documenter.getpostman.com/view/21511170/2s7YYu7imm
+- 서버 소스코드 Github 주소: https://github.com/eyoo95/perform-server-aws
+- 서버 소스코드 Github 주소: https://github.com/eyoo95/perform-server-aws
